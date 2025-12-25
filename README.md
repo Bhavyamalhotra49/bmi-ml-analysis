@@ -13,7 +13,7 @@ This dataset is quite small; hence, the model's accuracy should be considered as
 
 ## Usage:
 Clone the repository:
-git clone https://github.com/yourusername/bmi-ml-analysis.git
+git clone https://github.com/Bhavyamalhotra49/bmi-ml-analysis.git
 
 Open analysis.ipynb in Jupyter Notebook or Jupyter Lab.
 
