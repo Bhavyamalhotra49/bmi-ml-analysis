@@ -9,7 +9,7 @@ The project takes a publicly available dataset containing age, height, and weigh
 - Demonstrates an end-to-end ML workflow from data handling to prediction
 
 ## Note for Readers:
-This dataset is quite small; hence, the model's accuracy should be considered as an illustration only. The approach can be used with larger datasets to obtain more accurate BMI or health predictions.
+This dataset is quite small; hence, the model's accuracy should be considered as an illustration only.
 
 ## Dependencies
 - Python 3.x
@@ -26,3 +26,6 @@ git clone https://github.com/Bhavyamalhotra49/bmi-ml-analysis.git
 Open analysis.ipynb in Jupyter Notebook or Jupyter Lab.
 
 Execute each cell to get familiar with the data, interpret the visualizations, and view the BMI predictions.
+
+## Why ML for BMI?
+Although BMI can be calculated directly using a formula, this project uses a machine learning approach to demonstrate a complete ML workflow: data exploration, visualization, model training, and evaluation. The focus is on practical ML skills rather than improving BMI calculation accuracy. With larger or more complex health datasets, this workflow could be extended to predict health risks or other outcomes.
